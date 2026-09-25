@@ -15,6 +15,7 @@ Each entry gives specific information an owner can act on: doses by weight, runn
 - [Supplements and dosing](#supplements-and-dosing)
 - [Prescription medication](#prescription-medication)
 - [Finding a vet or behaviourist](#finding-a-vet-or-behaviourist)
+- [More from this list](#more-from-this-list)
 - [Contributing](#contributing)
 
 ## Recognising anxiety
@@ -33,6 +34,7 @@ Each entry gives specific information an owner can act on: doses by weight, runn
 ## Fireworks and noise
 
 - [Fireworks anxiety in dogs: UK guide](https://captaincalm.co.uk/guides/fireworks-anxiety-dogs-uk) - A four-week preparation plan before Bonfire Night, a checklist for the night itself, and which calming products help.
+- [Six-week Bonfire Night plan for a scared dog](https://ukdoganxietyresources.blogspot.com/2026/09/bonfire-night-is-six-weeks-away-week-by.html) - Week-by-week steps from setting up a den to the night itself, with the UK fireworks curfew times.
 - [RSPCA: fireworks](https://www.rspca.org.uk/adviceandwelfare/fireworks) - RSPCA guidance for pet owners during fireworks season.
 - [PDSA: dogs and fireworks](https://www.pdsa.org.uk/pet-help-and-advice/pet-health-hub/other-veterinary-advice/dogs-and-fireworks) - Steps to keep a dog calm through fireworks season.
 
@@ -72,6 +74,11 @@ A vet should rule out pain or illness before a behaviour plan starts.
 - [RCVS Find a Vet](https://findavet.rcvs.org.uk/) - Search the Royal College of Veterinary Surgeons register for practices near you.
 - [Animal Behaviour and Training Council](https://abtc.org.uk/) - Sets the UK standards for animal behaviourists and trainers and keeps registers of those who meet them.
 - [Association of Pet Behaviour Counsellors](https://www.apbc.org.uk/) - UK pet behaviour counsellors who work on referral from vets.
+
+## More from this list
+
+- [UK Dog Anxiety Resources on Linktree](https://linktr.ee/ukdoganxietyresources) - The main guides and tools on one page.
+- [UK Dog Anxiety Resources blog](https://ukdoganxietyresources.blogspot.com) - Longer write-ups, starting with the Bonfire Night plan.
 
 ## Contributing
 
